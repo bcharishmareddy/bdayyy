@@ -18,6 +18,12 @@ export const content = {
     createdBy: "Your little girll",
   },
 
+  // Audio track configuration
+  audio: {
+    src: "/audio/ambient.mp3",
+    title: "Special Birthday Song for Sarathuu",
+  },
+
   // Section 2: Introduction
   introduction: {
     heading: "Some People Are Just Different.",
